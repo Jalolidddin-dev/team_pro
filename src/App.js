@@ -12,13 +12,16 @@ function App() {
       <h1 className="text-red-500">Salom</h1>
       <About />
 
-      <Ismoyil />
+    
 
 
    
     <Ibrohim />
    
       <Mohinur/>
+
+
+      <Ismoyil />
 
 
     </div>
